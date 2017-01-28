@@ -234,7 +234,7 @@ function create_config( )
     "antispam",
     "BanHammer",
     },
-    sudo_users = {317391435}, --Sudo users
+    sudo_users = {189308877}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ By CerNer Team channel Id : @CerNerTeam]],
     help_text_realm = [[راهنمای دستورات ربات CerNer
